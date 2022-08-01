@@ -1,4 +1,3 @@
-# algorepository
-Repository for demo purposes
+# Labyrinth game
 
-This is a test commit
+This is a demo project of a Labyrinth game.
